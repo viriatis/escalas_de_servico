@@ -1,0 +1,35 @@
+{
+  "name": "escalasapi",
+  "version": "1.0.0",
+  "description": "api de escalas para o exercito",
+  "main": "config.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "cron": "^1.7.1",
+    "cronjob": "^0.1.0",
+    "crypto": "^1.0.1",
+    "express": "^4.16.4",
+    "googleapis": "^39.2.0",
+    "mongodb": "^3.2.5",
+    "mongoose": "^5.6.8",
+    "node-telegram-bot-api": "^0.30.0",
+    "nodemailer": "^6.3.0",
+    "qrcode": "^1.4.1",
+    "route": "^0.2.5",
+    "speakeasy": "^2.0.0",
+    "validator": "^11.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://1050475@bitbucket.org/1050475/pesti_api_escalas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/1050475/pesti_api_escalas#readme"
+}
