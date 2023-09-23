@@ -3,5 +3,5 @@ module.exports = {
     'periodoCalculoEscala': 60,
     'periodoInfoDias': 365,
     'alertEmail': 'regimentotransmissoes.teste@gmail.com',
-    'alertPassword': 'regimentotransmissoes%&2019'
+    'alertPassword': 'xxxx'
 };
